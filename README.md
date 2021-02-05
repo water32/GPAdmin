@@ -22,7 +22,6 @@ GPAdmin
 
 ****
 
-为了方便大家下载，暂时提供百度网盘下载方式：
-链接: https://pan.baidu.com/s/1CAN4tW3zOLuVvcf-B_9vQg 提取码: 4mpd 
+百度网盘不再提供下载，因为其无法进行问题记录和跟踪，还请在此处下载
 
 ****
