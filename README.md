@@ -22,6 +22,7 @@ GPAdmin
 
 ****
 
-百度网盘不再提供下载，因为其无法进行问题记录和跟踪，还请在此处下载
+百度网盘下载地址：
+链接:https://pan.baidu.com/s/1CAN4tW3zOLuVvcf-B_9vQg 提取码:4mpd
 
 ****
