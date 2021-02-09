@@ -22,7 +22,7 @@ GPAdmin
 
 ****
 
-百度网盘下载地址：
+百度网盘下载地址[只保留最新的版本]：
 链接:https://pan.baidu.com/s/1CAN4tW3zOLuVvcf-B_9vQg 提取码:4mpd
 
 ****
