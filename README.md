@@ -25,4 +25,5 @@ GPAdmin
 百度网盘下载地址[只保留最新的版本]：
 链接:https://pan.baidu.com/s/1CAN4tW3zOLuVvcf-B_9vQg 提取码:4mpd
 
+为了方便维护，以后将不再保留github上的文件，请直接在网盘下载
 ****
