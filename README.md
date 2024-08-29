@@ -14,7 +14,7 @@ GPAdmin
 
 ****
 
-为了延续使用习惯，很多使用特征保持了与pgAdmin3的一致性，但这是全新的客户端，与pgAdmin3没有任何关系，作者已经停止pgAdmin3的维护工作，将只维护GPAdmin这一个Greenplum客户端，目前仅支持Greenplum的所有4.3、5、6、7版本。
+为了延续使用习惯，很多使用特征保持了与pgAdmin3的一致性，但这是全新的客户端，与pgAdmin3没有任何关系，作者已经停止pgAdmin3的维护工作，将只维护GPAdmin这一个Greenplum客户端，目前支持Greenplum的所有4.3、5、6、7版本。
 
 ****
 
